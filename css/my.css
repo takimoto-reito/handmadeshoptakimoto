@@ -1,0 +1,20 @@
+.wrapper{
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+ 
+}
+
+.aligincenter {
+    
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+  
+}
+
+.banners {
+
+    border: 10px #ffffff solid;
+
+}
